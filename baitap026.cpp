@@ -1,3 +1,6 @@
+/*
+*Bài 26: Tính tích tất cả các “ước số lẻ” của số nguyên dương n
+*/
 #include <iostream>
 #include<conio.h>
 #include<math.h>
