@@ -1,3 +1,6 @@
+/*
+*Bài 12: Tính S(n) = x + x^2 + x^3 + … + x^n
+*/
 #include <iostream>
 #include<cmath>
 using namespace std;
