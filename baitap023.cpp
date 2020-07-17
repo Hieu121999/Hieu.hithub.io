@@ -1,3 +1,6 @@
+/*
+*Bài 23: Đếm số lượng “ước số” của số nguyên dương n
+*/
 #include <iostream>
 #include<conio.h>
 #include<math.h>
