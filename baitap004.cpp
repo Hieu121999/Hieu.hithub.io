@@ -1,3 +1,6 @@
+/*
+*Bài4: Tính S(n) = ½ + ¼ + … + 1/2n
+*/
 #include <iostream>
 using namespace std;
 
