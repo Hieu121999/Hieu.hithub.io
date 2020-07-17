@@ -1,3 +1,6 @@
+/*
+*Bài 15: Tính S(n) = 1 + 1/1 + 2 + 1/ 1 + 2 + 3 + ….. + 1/ 1 + 2 + 3 + …. + N
+*/
 #include <iostream>
 #include<cmath>
 using namespace std;
