@@ -1,3 +1,6 @@
+/*
+*Bài 29: Tìm ước số lẻ lớn nhất của số nguyên dương n. Ví dụ n = 100 ước lẻ lớn nhất là 25
+*/
 #include <iostream>
 #include<conio.h>
 #include<math.h>
