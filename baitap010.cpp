@@ -1,3 +1,6 @@
+/*
+*Bài 10: Tính T(x, n) = x^n
+*/
 #include <iostream>
 #include<conio.h>
 #include<math.h>
