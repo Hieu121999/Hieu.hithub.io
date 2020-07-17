@@ -12,3 +12,6 @@ cout<<"Nhap n:";
  cout<<S;
  return 0;
 }
+/*
+B2: Tinh S(n) = 1^2 + 2^2 + … + n^2
+*/
