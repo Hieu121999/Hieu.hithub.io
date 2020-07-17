@@ -12,3 +12,6 @@ cout<<"Nhap n:";
  cout<<S;
  return 0;
 }
+/*
+B1: Tinh S(n) = 1 + 2 + 3 + … + n
+*/
