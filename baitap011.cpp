@@ -1,3 +1,6 @@
+/*
+*Bài 11: Tính S(n) = 1 + 1.2 + 1.2.3 + … + 1.2.3….N
+*/
 #include <iostream>
 #include<conio.h>
 #include<math.h>
