@@ -1,3 +1,7 @@
+/*
+*B3: Tính S(n) = 1 + ½ + 1/3 + … + 1/n
+*/
+
 #include <iostream>
 using namespace std;
 
