@@ -13,5 +13,5 @@ cout<<"Nhap n:";
  return 0;
 }
 /*
-B2: Tinh S(n) = 1^2 + 2^2 + … + n^2
+*B2: Tinh S(n) = 1^2 + 2^2 + … + n^2
 */
