@@ -1,3 +1,6 @@
+/*
+*Bài 27: Đếm số lượng “ước số chẵn” của số nguyên dương n
+*/
 #include <iostream>
 #include<conio.h>
 #include<math.h>
