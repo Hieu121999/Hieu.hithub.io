@@ -1,3 +1,6 @@
+/*
+*Bài 9: Tính T(n) = 1 x 2 x 3…x N
+*/
 #include <iostream>
 using namespace std;
 
